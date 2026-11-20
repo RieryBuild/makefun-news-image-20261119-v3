@@ -50,7 +50,7 @@ Tags: **[REPORTED]** = reported on the day by the cited source;
    country. [REPORTED] US Embassy Bogotá, i-journey 09:28:32Z.
 10. **PARIS — Politics.** The Greens offer to back Mélenchon (Tondelier
     opens the door); Glucksmann hits back. [REPORTED] Reuters 08:46:31Z.
-    (The finance minister's "Mélenchon could win" comment is 18 Nov —
+    (Darmanin's "Mélenchon could win" comment is 18 Nov —
     not used.)
 11. **SEOUL — Courts.** South Korea's Supreme Court upholds Kim Keon-hee's
     4-year term and overturns Han Duck-soo's 15-year term, remanding for
@@ -128,7 +128,7 @@ Tags: **[REPORTED]** = reported on the day by the cited source;
     Numerator). Reuters 00:03:32 UTC.
 41. LA — Jazz end the Lakers' 9-game win streak 109–97 (Keyonte George
     30 points, 10 assists; final ~05:31 UTC). LakersNation 05:31:19 UTC.
-42. Shenzhen — PMs Carney, Wong, Albanese and Luxon meet on APEC's
+42. Shenzhen — Carney, Wong, Albanese and Luxon meet on APEC's
     sidelines (trade, CPTPP, AI, defence). Canada PMO 06:46:00Z.
 43. Shenzhen — Trump–Xi bilateral: chips and rare earths (scheduled
     19 Nov). Yonhap 09:03 KST.
